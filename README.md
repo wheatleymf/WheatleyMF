@@ -1,4 +1,4 @@
-# hiii i am wheatleymf uwu oh oooh stinky
+# WHO THE HELL THOUGHT THAT SEPARATE REPO IS A GOOD IDEA FOR PROFILE CUSTOMISATION
 <insert another boring overdesigned readme page about average smoothie js dev learning 999 frameworks instead of learning how to implement complex features on your own but then it won't sound as cool as it could be, because for some reason these days you must have as many badges in your profile as possible to satisfy your ego>
 
 # i'm currently learning...
