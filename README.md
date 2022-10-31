@@ -1,8 +1,3 @@
-# WHO THE HELL THOUGHT THAT SEPARATE REPO IS A GOOD IDEA FOR PROFILE CUSTOMISATION
-<insert another boring overdesigned readme page about average smoothie js dev learning 999 frameworks instead of learning how to implement complex features on your own but then it won't sound as cool as it could be, because for some reason these days you must have as many badges in your profile as possible to satisfy your ego>
+This is the most disorganized and irrelevant Github profile you could have ever find. Perhaps, one day I will start using it properly and post here real coding projects.
 
-# i'm currently learning...
-working on improving and optimising the wiping ass technology to make it 3x times more effective!! 😊😊
-
-# i'm interested to collaborate with...
-fuck off
+I have a little background of C# programming, but most of my time I am working on web-projects, currently slowly working on my own set of writing/content management tools for my website. Most of my commits are currently related to map making / level design and other art stuff though, since this is my main focus at the moment. I must eat to stay alive, y'know. I wish I had more time to shift my priorities to programming though...
