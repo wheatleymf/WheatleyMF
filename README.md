@@ -1,3 +1,8 @@
-This is the most disorganized and irrelevant Github profile you could have ever find. Perhaps, one day I will start using it properly and post here real coding projects.
+# Hi 
 
-I have a little background of C# programming, but most of my time I am working on web-projects, currently slowly working on my own set of writing/content management tools for my website. Most of my commits are currently related to map making / level design and other art stuff though, since this is my main focus at the moment. I must eat to stay alive, y'know. I wish I had more time to shift my priorities to programming though...
+You won't find anything useful here, and this profile isn't properly maintained tbh. Most of my work I've done is art and shaders for Small Fish and other s&box communities. If you're a shader noob, go check out my open-source website, it has plenty of beginner-friendly tutorials! :-) 
+
+## Links
+https://x.com/wheatleymf/
+https://shaders.wheatleymf.com/
+https://smallfi.sh/
