@@ -5,7 +5,7 @@ You won't find anything useful here, and this profile isn't properly maintained 
 ## Links
 - **MY SUMMER COTTAGE**: wishlist us! https://store.steampowered.com/app/3115420/My_Summer_Cottage/
 
-- https://shaders.wheatleymf.com/
+- https://shaders.wheatleymf.net/
 - https://bsky.app/profile/wheatleymf.net
 - https://x.com/wheatleymf/
 - https://smallfi.sh/
